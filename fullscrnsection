@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+/*TWH CSS overrides*/
+.new-row {margin: 0;}
+.page-title {display: none;}
+.new-row text-center with-border {display: none;}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+/* margin-top already 20 px */
+    margin-bottom: 20px;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+/*TWH CSS overrides ^^*/
+
+.cont {
+  width: 100%;
+  background: rgb(49, 133, 216);
+  padding: 20px;
+  padding-top: 35px;
+  font-size: 20px;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+.copy-paste {
+  background: none;
+  font-weight: bold;
+  color: white;
+}
+
+.max-width-p {
+  padding-bottom: none;
+  margin-bottome: none;
+}
+
+.max-width {
+  background: none;
+  color: white
+}
+
+</style>
+<body>
+
+<div class="cont">
+  This is an example of the CSS overide code to have a full screen div in your Troop Webhost site. 
+  <mark class="copy-paste">Copy and paste this code into your site to try it out! </mark><p class="max-width-p"> When you do this make the <mark class="max-width">"Maximum Width"</mark> of the section <mark class="max-width"> 1920 pixels</mark></p>
+</div>
+
+</body>
+</html>
