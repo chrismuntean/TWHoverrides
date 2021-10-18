@@ -1,5 +1,5 @@
 # Troop Web Host Overrides
-These override will force Troop Web Host's widget sizing/ margin limits with sections and widgets as well as other overrides over the main CSS of the entire page effecting the nav menu, page-title, etc.
+These override will force Troop Web Host's widget sizing/ margin limits with sections and widgets as well as other overrides over the main CSS of the entire page effecting the nav menu, page-title, scrollbar, etc.
 ## Section Overrides (1) - Oct 17th 2021
 
 ### 1) Create a full screen section (custom source code)
